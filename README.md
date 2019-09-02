@@ -1,9 +1,8 @@
 # mongodb-cheet-sheet
-[SQL to MongoDB Mapping Chart](http://docs.mongodb.org/manual/reference/sql-comparison/#sql-to-mongodb-mapping-chart)
+
 <div class="section" id="sql-to-mongodb-mapping-chart">
 <h1>SQL to MongoDB Mapping Chart<a class="headerlink" href="#sql-to-mongodb-mapping-chart" title="Permalink to this headline">¶</a></h1>
-<p>In addition to the charts that follow, you might want to consider the
-<a class="reference internal" href="../../faq/"><em>Frequently Asked Questions</em></a> section for a selection of common questions about MongoDB.</p>
+
 <div class="section" id="executables">
 <h2>Executables<a class="headerlink" href="#executables" title="Permalink to this headline">¶</a></h2>
 <p>The following table presents the MySQL/Oracle executables and the
