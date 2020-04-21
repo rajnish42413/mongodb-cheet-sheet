@@ -1,4 +1,5 @@
-# mongodb-cheet-sheet
+# Mongodb Cheet Sheet by Rajnish Singh
+### Learn Mongodb by differencing Between MongoDB and SQL .
 
 <div class="section" id="sql-to-mongodb-mapping-chart">
 <h1>SQL to MongoDB Mapping Chart<a class="headerlink" href="#sql-to-mongodb-mapping-chart" title="Permalink to this headline">¶</a></h1>
